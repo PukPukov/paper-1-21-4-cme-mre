@@ -1,0 +1,10 @@
+name: Paper_1.21.4_CME_MRE
+version: '1.0'
+main: ru.ancap.paper_1_21_4_cme_mre.Plugin
+api-version: '1.21'
+authors: [ PukPukov ]
+
+commands:
+  run-register-unregister-by-one:
+  run-register-unregister-at-once:
+  reregister-this:
